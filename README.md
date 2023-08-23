@@ -1,6 +1,6 @@
 # Magic::Parser
 
-A ruby library from parsing policy numbers generated for an ingenious machine purchased by Magic company.
+A ruby library for parsing policy numbers generated for an ingenious machine purchased by Magic company.
 
 ## Installation
 
